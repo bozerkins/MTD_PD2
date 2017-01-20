@@ -1,0 +1,15 @@
+{
+    "authors": [
+        {
+            "name": "Bogdans Ozerkins",
+            "email": "b.ozerkins@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "symfony/var-dumper": "3.2.*"
+    },
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
